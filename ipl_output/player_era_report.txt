@@ -1,0 +1,107 @@
+
+=============================================================================
+  IPL PLAYER ERA ANALYSIS -- SUMMARY REPORT
+=============================================================================
+
+--- ERA-WISE BEST BATTERS (Composite: 40% runs + 35% SR + 25% avg) ---
+
+  2008-2012:
+    V Sehwag                Runs 1865  SR 167.6  Avg 932.5  B%   27  Score 0.654
+    G Gambhir               Runs 2056  SR 128.8  Avg 1028.0  B%   17  Score 0.605
+    SK Raina                Runs 2250  SR 139.7  Avg 750.0  B%   18  Score 0.594
+
+  2013-2017:
+    DA Warner               Runs 2970  SR 144.3  Avg 990.0  B%   20  Score 0.753
+    V Kohli                 Runs 2774  SR 137.1  Avg 924.7  B%   17  Score 0.695
+    SK Raina                Runs 2276  SR 138.8  Avg 1138.0  B%   18  Score 0.683
+
+  2018-2022:
+    KL Rahul                Runs 3168  SR 139.1  Avg 1056.0  B%   18  Score 0.780
+    JC Buttler              Runs 2285  SR 150.1  Avg 1142.5  B%   22  Score 0.713
+    S Dhawan                Runs 2675  SR 133.0  Avg 891.7  B%   18  Score 0.664
+
+  2023-2026:
+    V Kohli                 Runs 2106  SR 147.5  Avg 1053.0  B%   19  Score 0.663
+    Shubman Gill            Runs 1999  SR 155.0  Avg 999.5  B%   20  Score 0.655
+    SA Yadav                Runs 1673  SR 172.1  Avg 836.5  B%   26  Score 0.618
+
+--- ERA-WISE BEST BOWLERS (Composite: 40% wkts + 35% eco + 25% SR) ---
+
+  2008-2012:
+    SL Malinga              Wkts  92  Eco 6.18  SR  14.2  Dot   47%  Score 0.867
+    A Mishra                Wkts  77  Eco 7.03  SR  16.8  Dot   40%  Score 0.772
+    RP Singh                Wkts  83  Eco 7.65  SR  17.6  Dot   46%  Score 0.767
+
+  2013-2017:
+    B Kumar                 Wkts 105  Eco 7.00  SR  16.0  Dot   46%  Score 0.878
+    SP Narine               Wkts  80  Eco 6.53  SR  19.7  Dot   43%  Score 0.799
+    MM Sharma               Wkts  91  Eco 8.01  SR  16.9  Dot   39%  Score 0.782
+
+  2018-2022:
+    JJ Bumrah               Wkts 108  Eco 6.90  SR  15.9  Dot   44%  Score 0.893
+    Rashid Khan             Wkts 101  Eco 6.40  SR  18.7  Dot   41%  Score 0.884
+    YS Chahal               Wkts 100  Eco 7.31  SR  16.6  Dot   38%  Score 0.845
+
+  2023-2026:
+    JJ Bumrah               Wkts  42  Eco 6.42  SR  14.7  Dot   45%  Score 0.671
+    CV Varun                Wkts  58  Eco 8.12  SR  16.4  Dot   39%  Score 0.656
+    HV Patel                Wkts  62  Eco 9.25  SR  13.8  Dot   30%  Score 0.628
+
+--- CROSS-ERA LEGENDS (Top 10 in 3+ eras) ---
+
+  Batters:
+    V Kohli                 Active in 3 eras
+    F du Plessis            Active in 2 eras
+    RG Sharma               Active in 2 eras
+    G Gambhir               Active in 2 eras
+    S Dhawan                Active in 2 eras
+    SA Yadav                Active in 2 eras
+    SK Raina                Active in 2 eras
+    Shubman Gill            Active in 2 eras
+
+  Bowlers:
+    YS Chahal               Active in 3 eras
+    A Mishra                Active in 2 eras
+    HV Patel                Active in 2 eras
+    DJ Bravo                Active in 2 eras
+    JJ Bumrah               Active in 2 eras
+    SL Malinga              Active in 2 eras
+    SP Narine               Active in 2 eras
+    TA Boult                Active in 2 eras
+
+--- PERFORMANCE DIP -- BATTERS ---
+  SR Tendulkar            2008-2012 -> 2013-2017  Runs 2044->287  SR 120->124  Drop 0.415
+  JH Kallis               2008-2012 -> 2013-2017  Runs 1957->462  SR 111->103  Drop 0.384
+  AC Gilchrist            2008-2012 -> 2013-2017  Runs 1752->294  SR 140->128  Drop 0.382
+  V Sehwag                2008-2012 -> 2013-2017  Runs 1865->848  SR 168->135  Drop 0.327
+  SK Raina                2013-2017 -> 2018-2022  Runs 2276->987  SR 139->128  Drop 0.341
+  RV Uthappa              2013-2017 -> 2018-2022  Runs 2235->1175  SR 136->126  Drop 0.325
+  YK Pathan               2013-2017 -> 2018-2022  Runs 1413->300  SR 142->122  Drop 0.318
+  AM Rahane               2013-2017 -> 2018-2022  Runs 2228->1017  SR 120->121  Drop 0.291
+  S Dhawan                2018-2022 -> 2023-2026  Runs 2675->520  SR 133->137  Drop 0.412
+  KL Rahul                2018-2022 -> 2023-2026  Runs 3168->1334  SR 139->135  Drop 0.385
+  PP Shaw                 2018-2022 -> 2023-2026  Runs 1587->303  SR 148->148  Drop 0.312
+  Q de Kock               2018-2022 -> 2023-2026  Runs 2034->545  SR 134->135  Drop 0.283
+
+--- PERFORMANCE DIP -- BOWLERS ---
+  SB Jakati               2008-2012 -> 2013-2017  Wkts 48->1  Eco 7.75->9.21  Drop 0.469
+  MM Patel                2008-2012 -> 2013-2017  Wkts 78->4  Eco 7.30->8.86  Drop 0.366
+  M Muralitharan          2008-2012 -> 2013-2017  Wkts 60->7  Eco 6.44->7.97  Drop 0.278
+  RP Singh                2008-2012 -> 2013-2017  Wkts 83->17  Eco 7.65->8.32  Drop 0.273
+  MM Sharma               2013-2017 -> 2018-2022  Wkts 91->9  Eco 8.01->10.61  Drop 0.424
+  MG Johnson              2013-2017 -> 2018-2022  Wkts 64->2  Eco 7.81->10.05  Drop 0.393
+  SL Malinga              2013-2017 -> 2018-2022  Wkts 76->18  Eco 7.21->9.84  Drop 0.322
+  DW Steyn                2013-2017 -> 2018-2022  Wkts 35->5  Eco 6.91->10.32  Drop 0.251
+  K Rabada                2018-2022 -> 2023-2026  Wkts 100->21  Eco 8.06->9.72  Drop 0.378
+  Rashid Khan             2018-2022 -> 2023-2026  Wkts 101->48  Eco 6.40->8.66  Drop 0.295
+  JO Holder               2018-2022 -> 2023-2026  Wkts 47->4  Eco 8.34->10.00  Drop 0.274
+  Mohammed Shami          2018-2022 -> 2023-2026  Wkts 89->35  Eco 8.15->8.82  Drop 0.229
+
+=============================================================================
+  Output files -> c:\Users\lenin\Desktop\DS-Project\ipl_output
+    09_era_best_players.png          Era-wise top batters & bowlers
+    10_cross_era_legends.png         Multi-era dominant players
+    11_performance_dip.png           Players who declined across eras
+    player_era_batting_detailed.csv  Full batting breakdown by era
+    player_era_bowling_detailed.csv  Full bowling breakdown by era
+=============================================================================

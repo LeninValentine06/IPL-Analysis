@@ -1,0 +1,108 @@
+
+=============================================================================
+  EVOLUTION OF THE INDIAN PREMIER LEAGUE -- DATA-DRIVEN ANALYSIS
+  Ball-by-Ball Study  2007-2026
+=============================================================================
+
+DATASET SUMMARY
+---------------
+  Seasons analysed  : 2007 - 2026
+  Total matches     : 1,175
+  Total deliveries  : 279,586
+  Unique batters    : 713
+  Unique bowlers    : 558
+
+1. SCORING EVOLUTION
+--------------------
+  Avg 1st-innings runs : 2007: 154.6  ->  2026: 175.2  (+20.6)
+  Avg run rate         : 2007: 8.35   ->  2026: 9.73   (+1.37 RPO)
+  Boundary %           : 2007: 18.1%  ->  2026: 21.7%
+  Dot ball %           : 2007: 40.7%  ->  2026: 35.8%
+  Run rates up ~16% over the tournament's history.
+
+2. BATTING EVOLUTION
+--------------------
+  Boundary % has risen sharply -- batters rely more on boundaries.
+  Dot ball % has decreased -- better strike rotation & fewer passive balls.
+  Six-to-four ratio has risen, signalling a shift from ground to aerial hitting.
+  Median batter SR has climbed consistently across all eras.
+
+  TOP 5 ALL-TIME RUN-SCORERS (min 300 balls):
+   batter  runs         sr
+  V Kohli  8721 133.287483
+RG Sharma  7081 132.256257
+ S Dhawan  6736 126.998492
+DA Warner  6537 139.679487
+ SK Raina  5513 136.968944
+
+3. BOWLING EVOLUTION
+--------------------
+  Median economy : 2007: 8.20  ->  2026: 8.69
+  Death-over specialists dominate modern IPL.
+  Dot ball % for bowlers has dropped -- batters force more scoring deliveries.
+
+  TOP 5 ALL-TIME WICKET-TAKERS (min 300 balls):
+   bowler  wkts      eco
+YS Chahal   227 7.851114
+  B Kumar   214 7.584079
+SP Narine   213 6.829046
+ DJ Bravo   206 8.146154
+JJ Bumrah   203 7.129766
+
+4. PHASE-WISE EVOLUTION
+-----------------------
+  POWERPLAY  (Ov 1-6) : ~7.5 RPO (2008) -> 10+ RPO (2026); boundary % highest.
+  MIDDLE OVERS (7-15) : Consolidation phase now a batting battleground.
+  DEATH OVERS (16-20) : Fastest absolute scoring increase; specialist premium.
+
+5. MATCH DYNAMICS
+-----------------
+  Volatility has increased -- matches more explosive & less predictable.
+  Burst overs (>=15 runs) significantly more common in modern IPL.
+  Collapses remain a feature despite deeper batting lineups.
+  Momentum (death-over runs) has risen sharply.
+
+6. CONTEXT ANALYSIS
+-------------------
+  PLAYOFFS : Slightly lower RR vs league (elite bowlers + pressure).
+  CHASING  : Chase RR converging with/exceeding batting-first RR.
+  BATTING FIRST : Higher SR top-order driven by franchise analytics.
+
+7. ERA PLAYER IMPACT
+--------------------
+  2008-2012 | Early IPL     : Anchor batting; seam & swing dominated.
+  2013-2017 | Transition    : Power-hitters & spin counter-strategy rose.
+  2018-2022 | Power-Hitting : Analytics reshaped roles; death specialists emerged.
+  2023-2026 | Modern Era    : Hyper-aggression from ball one; all phases.
+
+8. 2026 TREND VALIDATION
+------------------------
+  2026 continues the upward run-rate trajectory.
+  Boundary % and six-to-four ratio remain elevated.
+  No evidence of saturation -- aggressive philosophy institutionalised.
+
+CONCLUSION
+----------
+  "The evolution of the IPL reflects a shift from conservative, anchor-driven
+   gameplay to highly aggressive, data-optimized cricket, characterized by
+   increased scoring rates, boundary dependency, and specialized player roles
+   across different match contexts."
+
+OUTPUT FILES -> c:\Users\lenin\Desktop\DS-Project\ipl_output
+  Charts:
+    01_scoring_evolution.png     Runs, RR, high-score freq, over heatmap
+    02_batting_evolution.png     Boundary%, dot%, SR, six:four, rotation
+    03_bowling_evolution.png     Economy, wickets, dot%, dismissals, death eco
+    04_phase_analysis.png        PP / Middle / Death RR, boundary, dot, wicket
+    05_match_dynamics.png        Volatility, burst, collapses, momentum
+    06_context_analysis.png      Playoffs, chase, top-order, bowlers
+    07_player_era_impact.png     Top 8 batters + bowlers per era
+    08_2026_validation.png       2026 benchmarked against 2022-2025
+  Data:
+    ball_by_ball_clean.csv
+    match_innings_summary.csv
+    player_batting_rankings.csv
+    player_bowling_rankings.csv
+    player_phase_batting.csv
+    ipl_report.txt
+=============================================================================
